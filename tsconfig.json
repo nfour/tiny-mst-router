@@ -8,5 +8,5 @@
     "module": "CommonJS",
     "lib": ["dom", "esnext"],
   },
-  "include": ["typings.d.ts", "src"]
+  "include": ["TinyMstRouter.ts"]
 }

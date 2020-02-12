@@ -5,6 +5,7 @@
   "main": "build/TinyMstRouter",
   "repository": "git@github.com:nfour/tiny-mst-router",
   "author": "nfour <novus.nfour@gmail.com>",
+  "files": ["build"],
   "license": "MIT",
   "keywords": [
     "mobx-state-tree",
