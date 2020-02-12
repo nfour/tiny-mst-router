@@ -1,0 +1,25 @@
+{
+  "name": "tiny-mst-router",
+  "version": "1.0.0",
+  "description": "A tiny mobx-state-tree router",
+  "main": "build/TinyMstRouter",
+  "repository": "git@github.com:nfour/tiny-mst-router",
+  "author": "nfour <novus.nfour@gmail.com>",
+  "license": "MIT",
+  "keywords": ["mobx-state-tree", "mobx", "router", "react"],
+  "scripts": {
+    "build": "tsc"
+  },
+  "peerDependencies": {
+    "mobx": ">=5",
+    "mobx-state-tree": ">=3"
+  },
+  "dependencies": {
+    "@types/history": "^4.7.5"
+  },
+  "devDependencies": {
+    "mobx": "^5.15.4",
+    "mobx-state-tree": "^3.15.0",
+    "typescript": "^3.7.5"
+  }
+}
